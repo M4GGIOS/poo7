@@ -1,5 +1,3 @@
-// java
-// Caminho: `src/main/java/poo/SistemaPedidos.java`
 package poo;
 
 import org.springframework.boot.SpringApplication;
